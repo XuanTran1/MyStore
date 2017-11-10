@@ -1,0 +1,4 @@
+com\redhat\coolstore\DefaultDeployment.class
+com\redhat\coolstore\service\PromoServiceTest.class
+com\redhat\coolstore\service\ShippingServiceTest.class
+com\redhat\coolstore\service\ShoppingCartServiceTest.class
